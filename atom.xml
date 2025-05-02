@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>恭喜你发现了宝藏</title>
+  
+  <subtitle>一个普普通通的班级网址</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-04-20T02:34:30.765Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Sheng Yu Song</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>“博客网址说明条款”</title>
+    <link href="http://example.com/2025/04/20/%E2%80%9C%E5%8D%9A%E5%AE%A2%E7%BD%91%E5%9D%80%E8%AF%B4%E6%98%8E%E6%9D%A1%E6%AC%BE%E2%80%9D/"/>
+    <id>http://example.com/2025/04/20/%E2%80%9C%E5%8D%9A%E5%AE%A2%E7%BD%91%E5%9D%80%E8%AF%B4%E6%98%8E%E6%9D%A1%E6%AC%BE%E2%80%9D/</id>
+    <published>2025-04-20T12:38:17.000Z</published>
+    <updated>2025-04-20T02:34:30.765Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;2408网址说明&quot;&gt;&lt;a href=&quot;#2408网址说明&quot; class=&quot;headerlink&quot; title=&quot;2408网址说明&quot;&gt;&lt;/a&gt;2408网址说明&lt;/h1&gt;&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;青春由磨砺而出彩，人生因奋斗而升华！</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>“2408”</title>
+    <link href="http://example.com/2025/04/19/%E2%80%9C2408%E2%80%9D/"/>
+    <id>http://example.com/2025/04/19/%E2%80%9C2408%E2%80%9D/</id>
+    <published>2025-04-19T12:19:06.000Z</published>
+    <updated>2025-04-19T12:39:10.753Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;恭喜你发现了宝藏，这里是2408班班级网址。**&lt;a href=&quot;#jump_8&quot;&gt;2408班级网址&lt;/a&gt;**&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;【小贴士：建议使用</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
